@@ -140,7 +140,7 @@ def generate_app_secret():
 def replace_variables_for_app(application_root_name, folder_to_search, application_name, service_type, has_mongo=False):
     govukTemplateVersion = "4.0.0"
     frontendBootstrapVersion = "6.7.0"
-    playUiVersion = "4.17.0"
+    playUiVersion = "4.18.0"
     playPartialsVersion = "4.6.0"
     playAuthVersion = "3.4.0"
     playAuthorisedFrontendVersion = "5.8.0"
